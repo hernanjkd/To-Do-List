@@ -28,6 +28,7 @@ code {
   border-top: none;
   width: 270px;
   padding: 5px;
+  text-align: left;
 }
 
 .inputBar {
