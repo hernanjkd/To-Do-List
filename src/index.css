@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#root {
+  width: 100%;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.list {
+  width: 100%;
+}
+
+.item {
+  margin: auto;
+  border: 1px solid lightgray;
+  border-top: none;
+  width: 270px;
+  padding: 5px;
+}
+
+.inputBar {
+  width: 268px;
+  padding: 5px;
+}
+
+.fa-times {
+  color: lightgray;
+  float: right;
+  visibility: hidden;
+  cursor: pointer;
+}
